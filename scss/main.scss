@@ -1,0 +1,30 @@
+@import "./mixins/media-queries";
+
+@import "./variables/colors";
+@import "./variables/fonts";
+@import "./variables/spacing";
+
+@import "./layout/components/buttons";
+
+
+
+@import "./layout/container";
+@import "./layout/hero";
+@import "./layout/navbar";
+@import "./layout/main-dire";
+//  ---------------------- azamat ----------------
+@import "./layout/services";
+@import "./layout/discussion";
+@import "./layout/home";
+
+@import "./layout/project";
+
+//------------------------------------------------
+
+@import "./layout/ringo";
+
+@import "./layout/our";
+
+@import "./base/reset";
+@import "./base/global";
+@import "./base/typography";

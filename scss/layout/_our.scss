@@ -1,0 +1,19 @@
+.our {
+
+    & h4 {
+       
+        font-size: 46px ; 
+        font-weight: 600;
+        line-height: 57.5px;
+        text-align:  center;
+        color: #282B22;
+        align-items: center;
+    }
+
+    &__wrapper {
+        display: grid;
+        gap: 20px;
+        grid-template-columns: repeat(4, 1fr);
+        margin-top: 60px;
+    }
+}
